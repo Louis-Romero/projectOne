@@ -3,8 +3,8 @@
 # Temporal Median Filter On a Series of 9 Images
 
 #Created with: JES: Jython Environment for Students 
-#Version: 5.020
-#GitHub Link: https://github.com/gatech-csl/jes 
+#version: 5.020
+#https://github.com/gatech-csl/jes 
 
 #S16_MedianFilter.pdf
 #Notes: Presentation given in class
