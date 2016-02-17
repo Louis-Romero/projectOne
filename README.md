@@ -24,3 +24,10 @@
 
 #images
 #Notes: Contains images provided in class.  Wherever these images are stored the path should be set to this directory when software alert box pops up.
+
+#latestDriver.py
+#Notes: In class I was given and additional 9 images and told to modify my code to perform median filter on them.  New funtion added to driver.py and renamed to latestDriver.py.
+#Date Completed: Febrary 15, 2016
+
+#bit_photos
+#Notes:  This contains the photos given in class for grading.
